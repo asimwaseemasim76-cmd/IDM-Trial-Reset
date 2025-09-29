@@ -21,7 +21,8 @@
      ⚠️ Risk: crack/patch issues
 
 * * # Screen shots
- <img width="1777" height="312" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/b9500dcf-f9ed-436d-a7c8-c1f89215150b" />
+  * 
+ <img width="1457" height="428" alt="Screenshot (123)" src="https://github.com/user-attachments/assets/fff5fcf6-cd8d-40b1-a390-4772acbf8513" />
 
  <img width="1525" height="234" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/d73ceb11-353b-45a7-8346-e81f6922fcf4" />
 
