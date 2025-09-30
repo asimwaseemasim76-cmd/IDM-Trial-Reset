@@ -1,26 +1,28 @@
-  #  IDM-Trial-Reset
+#  IDM-Trial-Reset
 
-    IDM trial period reset tool for reusing without license
+`IDM trial period reset tool for reusing without license`
       
-* * #    IDM (Internet Download Manager)
+# IDM (Internet Download Manager)
  
-    ⚡ Fast downloading software
+ - ⚡ Fast downloading software
 
-     ⏸️ Resume & pause option
+ - ⏸️ Resume & pause option
 
-     📅 Schedule downloads
+ -  📅 Schedule downloads
 
-     📂 Multiple files support
+ -  📂 Multiple files support
 
-* * # IDM Trial Reset
+ # IDM Trial Reset
     
-     🔄 Reset IDM trial (30 days)
+  - 🔄 Reset IDM trial (30 days)
 
-     🆓 Free use without license
+  - 🆓 **Free** *use** without license
 
-     ⚠️ Risk: crack/patch issues
+  -  ⚠️ Risk: crack/patch issues
 
-* * # Screenshot's 
+  # Screenshot's 
+  **screenshots:**
+ 
  
 <img width="1871" height="760" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/60731f3d-cd68-48a2-9194-d64ba6bb2bce" />
 
@@ -39,3 +41,29 @@
 <img width="1616" height="549" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/a4ba8a79-ad37-4681-8e2e-010c2c742294" />
 
 <img width="1626" height="560" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/12e66a96-72af-4fb0-b51e-e88c9d82dce4" />
+
+
+
+# IDM-Alternative (Educational & Legal)
+
+**Disclaimer:** Ye repository kisi bhi tarah se copyrighted software ko crack karne, trial period bypass karne, ya illegal distribution mein madad nahi karta. Is project ka maqsad educational hai — ek simple, open-source download manager prototype dikhana jo resume aur basic scheduling support karta hai.
+
+## Kya hai
+`IDM-Alternative` ek chhota, open-source download manager prototype hai jo:
+- file download with resume (HTTP Range)
+- multiple simultaneous downloads (threads)
+- basic CLI interface
+- download history / logs
+
+Ye *trial-reset* tools ya licensed software ko bypass karne ke liye nahin hai.
+
+## Features (Planned)
+- ✅ Single-file download with resume
+- ✅ Concurrent downloads (configurable threads)
+- ⚪ Optional GUI (future)
+- ⚪ Scheduler / queue management
+- ⚪ Integrations (browser extension ideas — future)
+
+## Quick start (Python)
+1. Repo clone karein:
+```bash
