@@ -1,8 +1,8 @@
-#  IDM-Trial-Reset
+#  *IDM-Trial-Reset*
 
 `IDM trial period reset tool for reusing without license`
       
-# IDM (Internet Download Manager)
+# *IDM* *(Internet Download Manager)*
  
  - ⚡ **Fast downloading software**
    
@@ -12,7 +12,7 @@
    
  - ⏸️ *Resume & pause* **option**
 
- # IDM Trial Reset
+ # *IDM Trial Reset*
     
  - 🔄 **Reset IDM trial** *(30 days)*
 
@@ -20,7 +20,7 @@
 
  - ⚠️ **Risk:** *crack/patch* *issues*
 
-  # Screenshot's 
+  # *Screenshot's* 
   **screenshots:**
  
  
@@ -43,27 +43,4 @@
 <img width="1626" height="560" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/12e66a96-72af-4fb0-b51e-e88c9d82dce4" />
 
 
-
-# IDM-Alternative (Educational & Legal)
-
-**Disclaimer:** Ye repository kisi bhi tarah se copyrighted software ko crack karne, trial period bypass karne, ya illegal distribution mein madad nahi karta. Is project ka maqsad educational hai — ek simple, open-source download manager prototype dikhana jo resume aur basic scheduling support karta hai.
-
-## Kya hai
-`IDM-Alternative` ek chhota, open-source download manager prototype hai jo:
-- file download with resume (HTTP Range)
-- multiple simultaneous downloads (threads)
-- basic CLI interface
-- download history / logs
-
-Ye *trial-reset* tools ya licensed software ko bypass karne ke liye nahin hai.
-
-## Features (Planned)
-- ✅ Single-file download with resume
-- ✅ Concurrent downloads (configurable threads)
-- ⚪ Optional GUI (future)
-- ⚪ Scheduler / queue management
-- ⚪ Integrations (browser extension ideas — future)
-
-## Quick start (Python)
-1. Repo clone karein:
 ```bash
