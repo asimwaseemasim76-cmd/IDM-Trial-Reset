@@ -4,21 +4,21 @@
       
 # IDM (Internet Download Manager)
  
- - ⚡ Fast downloading software
-
- - ⏸️ Resume & pause option
-
- -  📅 Schedule downloads
-
- -  📂 Multiple files support
+ - ⚡ **Fast downloading software**
+   
+ - 📂 **Multiple files support**
+   
+ - 📅 **Schedule downloads**
+   
+ - ⏸️ *Resume & pause* **option**
 
  # IDM Trial Reset
     
-  - 🔄 Reset IDM trial (30 days)
+ - 🔄 **Reset IDM trial** *(30 days)*
 
-  - 🆓 **Free** *use** without license
+ - 🆓 **Free use without license**
 
-  -  ⚠️ Risk: crack/patch issues
+ - ⚠️ **Risk:** *crack/patch* *issues*
 
   # Screenshot's 
   **screenshots:**
