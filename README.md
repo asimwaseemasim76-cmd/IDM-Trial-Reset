@@ -41,6 +41,3 @@
 <img width="1616" height="549" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/a4ba8a79-ad37-4681-8e2e-010c2c742294" />
 
 <img width="1626" height="560" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/12e66a96-72af-4fb0-b51e-e88c9d82dce4" />
-
-
-```bash
