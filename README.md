@@ -1,4 +1,8 @@
 #  *IDM-Trial-Reset*
+[![GitHub release](https://img.shields.io/github/release/Mr-Asim-1/Idm-Trial-Reset.svg?maxAge=2592000)](https://github.com/Mr-Asim-1/Idm-Trial-Reset/releases/latest)
+[![license](https://img.shields.io/github/license/J2TEAM/Idm-Trial-Reset.svg?maxAge=2592000)](https://github.com/Mr-Asim-1/Idm-Trial-Reset/blob/master/LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/juno_okyo.svg?label=Follow&maxAge=2592000)](https://twitter.com/juno_okyo)
+
 
 `IDM trial period reset tool for reusing without license`
       
